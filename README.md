@@ -1,7 +1,5 @@
 function fx=double %the mainprogram of the coupled model for the outlet water temperature 
-
 clear;  %
-
 clc;  %
 options=optimset('display','off');
 tx=0:3600:3600*24;  % the time and the time interval
