@@ -1,4 +1,3 @@
-
 function fx=double %the mainprogram of the coupled model for the outlet water temperature 
 clear;  %
 clc;  %
