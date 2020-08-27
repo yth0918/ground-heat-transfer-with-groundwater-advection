@@ -112,5 +112,4 @@ Tout=Tb+(Tin-Tb)*((BAT*Ra1*CHBAT)-SHBAT)/((BAT*Ra1*CHBAT)+SHBAT); %the value of 
 
 G=(Tout-k)^2+G; % Optimal solution formula
 
-f=G;
- 
+f=G; 
